@@ -39,7 +39,7 @@ Los estilos están definidos en `css/styles.css` y se aplican a los diferentes e
 
 ## Autor
 
-Desarrollado por Andige Sánchez.
+Desarrollado por Angie Lorena Sánchez.
 
 ## Licencia
 
