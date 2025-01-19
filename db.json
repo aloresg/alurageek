@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Producto 1",
+      "precio": 100,
+      "imagen": "https://babystreet.althemist.com/wp-content/uploads/2019/01/baby-prod22-1-390x439.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Producto 2",
+      "precio": 200,
+      "imagen": "https://babystreet.althemist.com/wp-content/uploads/2019/01/baby-prod17-2-390x439.jpg"
+    },
+    {
+      "id": "d6f4",
+      "nombre": "prueba",
+      "precio": "123",
+      "imagen": "https://offcorss.vtexassets.com/arquivos/ids/782548-800-auto?v=638108743116600000&width=800&height=auto&aspect=true"
+    },
+    {
+      "id": "6012",
+      "nombre": "prueba",
+      "precio": "123",
+      "imagen": "https://offcorss.vtexassets.com/arquivos/ids/782548-800-auto?v=638108743116600000&width=800&height=auto&aspect=true"
+    }
+  ]
+}
